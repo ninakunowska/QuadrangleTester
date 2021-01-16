@@ -1,5 +1,6 @@
 #include <iostream>
 #include <cstdlib>
+#include <cmath>
 using namespace std;
 
 bool hasParallelSides(float slope_AB,float slope_BC,float slope_CD,float slope_DA){
